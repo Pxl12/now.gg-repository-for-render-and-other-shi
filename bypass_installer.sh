@@ -1,2 +1,1 @@
 ```curl -L https://bypass.vyper.group/bypass.sh | bash```
-```curl -L https://bypass.vyper.group/bypass.sh | bash```
